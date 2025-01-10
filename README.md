@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript.**
 
-- 📫 Contact me **chamodichethana1234@gmail.com**
+- 📫 Contact me **chamodiurassawatta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
